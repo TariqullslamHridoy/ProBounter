@@ -54,10 +54,10 @@ The tool generates a unique directory for every session, ensuring no data overla
 
 ```text
 recon_YYYY-MM-DD_Domain/
-├── dns_info.txt         # Raw DNS query results
-├── nmap_report.txt      # Service and port identification
-├── headers.txt          # Full HTTP response headers
-└── vulnerabilities.txt   # Identified security misconfigurations
+├── dns_info.txt          Raw DNS query results
+├── nmap_report.txt       Service and port identification
+├── headers.txt           Full HTTP response headers
+└── vulnerabilities.txt   Identified security misconfigurations
 
 ```
 
