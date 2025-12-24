@@ -71,6 +71,3 @@ This tool is for educational and authorized security testing purposes only. Usag
 
 **Project:** Break For Bounty - HW 6
 
-```
-
-```
