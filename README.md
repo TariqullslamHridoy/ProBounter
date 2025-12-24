@@ -27,7 +27,7 @@ Ensure the following tools are available in your environment:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/TariqullslamHridoy/ProBounter.git](https://github.com/TariqullslamHridoy/ProBounter.git)
+git clone https://github.com/TariqullslamHridoy/ProBounter.git
 cd ProBounter
 
 ```
